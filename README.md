@@ -1,4 +1,4 @@
-# veto-ui
+# vito-ui
 
 ## Project setup
 ```
