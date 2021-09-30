@@ -1,8 +1,8 @@
 import Vue from "vue";
 import App from "./App.vue";
-import veUi from "./packages/index"
+import viUi from "./index"
 Vue.config.productionTip = false;
-Vue.use(veUi)
+Vue.use(viUi)
 new Vue({
   render: (h) => h(App),
 }).$mount("#app");

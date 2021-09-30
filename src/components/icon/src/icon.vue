@@ -1,10 +1,10 @@
 <template>
 <div>
-    button
+    icon
 </div>
 </template>
 <script>
 export default {
-    name: "ve-button"
+    name: "vi-icon"
 }
 </script>

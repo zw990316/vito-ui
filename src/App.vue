@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <ve-button></ve-button>
-    <ve-icon></ve-icon>
+    <vi-button></vi-button>
+    <vi-icon></vi-icon>
   </div>
 </template>
 
